@@ -1,7 +1,7 @@
 {
   "name": "redux-todos-by-frank",
   "description": "",
-  "homepage": "https://stackblitz.com/edit/redux-todos-by-frank",
+  "homepage": "https://github.com/lxyangfan/react-todos",
   "dependencies": {
     "es6-promise": "^4.2.4",
     "isomorphic-fetch": "^2.2.1",
