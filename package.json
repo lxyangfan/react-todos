@@ -3,11 +3,14 @@
   "description": "",
   "homepage": "https://stackblitz.com/edit/redux-todos-by-frank",
   "dependencies": {
+    "es6-promise": "^4.2.4",
+    "isomorphic-fetch": "^2.2.1",
     "react": "16.1.1",
     "react-dom": "16.1.1",
+    "react-redux": "5.0.7",
     "react-scripts": "1.0.10",
     "redux": "4.0.0-beta.2",
-    "react-redux": "5.0.7"
+    "redux-saga": "0.16.0"
   },
   "version": "0.1.0",
   "private": true,
